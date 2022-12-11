@@ -13,7 +13,8 @@ const About = () => {
                         <h5 className='my-2'>Phone: +880-1885-107-155</h5>
                         <h5>E-mail: nazmulnobel000@gmail.com</h5>
                         <p className='my-2'>Address: Miapure, MirerPara, Noakhali, Bangladesh</p>
-                        <button className='btn btn-primary'><a href="https://drive.google.com/file/d/1xzJ0klGVSY8TzZo1ApXNER7-p5afHtlZ/view" target='_blank'>My Resume</a></button>
+                        <button className='btn btn-primary mr-3'><a href="https://drive.google.com/file/d/1xzJ0klGVSY8TzZo1ApXNER7-p5afHtlZ/view" target='_blank'>My Resume</a></button>
+                        <button className='btn btn-primary'><a href="https://github.com/nazmulbhuyian" target='_blank'>My GitHub</a></button>
                     </div>
                 </div>
             </div>
