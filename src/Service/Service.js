@@ -6,7 +6,7 @@ const Service = () => {
             <p className='font-bold text-white'>My name is Nazmul Bhuyian. I am expert in React JS,
                 Javascript, Firebase Authentication, Node JS, Express JS, MongoDB, CSS, CSS framework
                 Tailwind, Bootstrap. I have a deep understanding of the latest web development trends and
-                technologies. I am confident that I can quickly adapt to new technologies. I am a motivated and hardworking individual who is always looking
+                technologies. I am confident that I can quickly adapted to new technologies. I am a motivated and hardworking individual who is always looking
                 for new challenges.</p>
             <p className='font-bold text-white mt-3'>I am a skilled react js developer. Always I prefer hand coded organized programming. I am
                 interested in the role and growth of technology in societal growth. I love to learn new technology
