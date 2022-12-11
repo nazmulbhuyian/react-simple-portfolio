@@ -2,43 +2,121 @@
     {
         "cetagory_id": 1,
         "img": "https://i.ibb.co/FH3WrsM/doctor-portal.png",
-        "a-live": "https://doctors-portal-88592.web.app/",
+        "a_live": "https://doctors-portal-88592.web.app/",
         "name": "Doctor Portal",
-        "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum debitis excepturi nesciunt vero obcaecati temporibus sequi ducimus. Fugiat ea vero distinctio doloribus provident ratione itaque aut adipisci, repellendus natus quos qui harum aspernatur aliquam mollitia, debitis excepturi quas alias necessitatibus, laboriosam quod. Animi in magni excepturi cumque. Dolorum, obcaecati dolore!"
+        "detail": [
+            {
+                "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum debitis excepturi nesciunt vero obcaecati temporibus sequi ducimus. Fugiat ea vero distinctio doloribus provident ratione itaque aut adipisci, repellendus natus quos qui harum aspernatur aliquam mollitia, debitis excepturi quas alias necessitatibus, laboriosam quod. Animi in magni excepturi cumque. Dolorum, obcaecati dolore!"
+            }
+        ]
     },
     {
         "cetagory_id": 2,
         "img": "https://i.ibb.co/17cPmTs/genius-car.png",
         "a_live": "https://genius-car-84805.web.app/",
         "name": "Genius Car",
-        "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum debitis excepturi nesciunt vero obcaecati temporibus sequi ducimus. Fugiat ea vero distinctio doloribus provident ratione itaque aut adipisci, repellendus natus quos qui harum aspernatur aliquam mollitia, debitis excepturi quas alias necessitatibus, laboriosam quod. Animi in magni excepturi cumque. Dolorum, obcaecati dolore!"
+        "detail": [
+            {
+                "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum debitis excepturi nesciunt vero obcaecati temporibus sequi ducimus. Fugiat ea vero distinctio doloribus provident ratione itaque aut adipisci, repellendus natus quos qui harum aspernatur aliquam mollitia, debitis excepturi quas alias necessitatibus, laboriosam quod. Animi in magni excepturi cumque. Dolorum, obcaecati dolore!"
+            }
+        ]
     },
     {
         "cetagory_id": 3,
         "img": "https://i.ibb.co/w6F5GtF/ema-johns.png",
         "a_live": "https://ema-john-simple-4a567.web.app/",
         "name": "Ema John",
-        "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum debitis excepturi nesciunt vero obcaecati temporibus sequi ducimus. Fugiat ea vero distinctio doloribus provident ratione itaque aut adipisci, repellendus natus quos qui harum aspernatur aliquam mollitia, debitis excepturi quas alias necessitatibus, laboriosam quod. Animi in magni excepturi cumque. Dolorum, obcaecati dolore!"
+        "detail": [
+            {
+                "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum debitis excepturi nesciunt vero obcaecati temporibus sequi ducimus. Fugiat ea vero distinctio doloribus provident ratione itaque aut adipisci, repellendus natus quos qui harum aspernatur aliquam mollitia, debitis excepturi quas alias necessitatibus, laboriosam quod. Animi in magni excepturi cumque. Dolorum, obcaecati dolore!"
+            }
+        ]
     },
     {
         "cetagory_id": 4,
         "img": "https://i.ibb.co/JRQJjdB/mobile-zone.png",
         "a_live": "https://mobile-zone-de3ef.web.app/",
         "name": "Mobile Zone",
-        "about": "● The main work on the website is Dashboard related. Buyer, Seller, and Admin roles are here. Buyers can book any product and pay for it. Sellers can sell any product and also add any product. It is responsive for mobile and tablet. ● This website admin role also accesses. Admin can delete all sellers and buyers. ● Here buyers can advertise any product which can be seen on the home page and he can also book a product in his wishlist. ❖ Technologies: React.js, Firebase Authentication, react-router-dom, react-hook-form, React Query, react-hot-toast, Tailwind, daisyUi, Node.js, Express.js, Cors, MongoDB."
+        "detail": [
+            {
+                "img1": "https://i.ibb.co/9qWwfqm/second-1.png",
+                "img2": "https://i.ibb.co/TvwHvN4/second-2.png",
+                "img3": "https://i.ibb.co/JrzjZQ0/second-3.png",
+                "about": "● The main work on the website is Dashboard related. Buyer, Seller, and Admin roles are here. Buyers can book any product and pay for it. Sellers can sell any product and also add any product. It is responsive for mobile and tablet. ● This website admin role also accesses. Admin can delete all sellers and buyers. ● Here buyers can advertise any product which can be seen on the home page and he can also book a product in his wishlist. ❖ Technologies: React.js, Firebase Authentication, react-router-dom, react-hook-form, React Query, react-hot-toast, Tailwind, daisyUi, Node.js, Express.js, Cors, MongoDB."
+            }
+        ]
+        
     },
     {
         "cetagory_id": 5,
         "img": "https://i.ibb.co/MVJ0cQ1/mental-press.png",
         "a_live": "https://mental-press.web.app/",
         "name": "Mental Press",
-        "about": "● This website we know six types of mental health problems. We know those problem details. We also know what we should do to remove those problems. ● This website we see people who comment on those problems. We also comment on those problems. ● This website user cannot get treatment if the user is not logged in. People also add tratment. ❖ Technologies: React.js, Firebase Authentication, react-router-dom, react-hot-toast, TailwindCSS framework daisyUi, Node.js, Express.js, Cors, MongoDB."
+        "detail": [
+            {
+                "img1": "https://i.ibb.co/9wSgFfq/mental-1.png",
+                "img2": "https://i.ibb.co/K9dkfjn/mental-2.png",
+                "img3": "https://i.ibb.co/b34p3xS/mental-3.png",
+                "about": "● This website we know six types of mental health problems. We know those problem details. We also know what we should do to remove those problems. ● This website we see people who comment on those problems. We also comment on those problems. ● This website user cannot get treatment if the user is not logged in. People also add tratment. ❖ Technologies: React.js, Firebase Authentication, react-router-dom, react-hot-toast, TailwindCSS framework daisyUi, Node.js, Express.js, Cors, MongoDB."
+            }
+        ]
+        
     },
     {
         "cetagory_id": 6,
         "img": "https://i.ibb.co/Z1V1TYm/CSE.png",
         "a_live": "https://cse-client-side.web.app/",
         "name": "Computer Learning",
-        "about": "● This website we know different fields in Computer science and enginnering. Those are 1.Web Development 2.App Development 3.IOS Development 4.Machine Learning 5.Robotics 6.About a Programmer. ● We know details about those fields. We can download those field details. There are also protected routes. If the user is not logged in he can not go to the details page. ● This website also has a check out form. Firebase authentication also added this website. ❖ Technologies: React.js, Firebase Authentication, react-router-dom, Bootstrap, Node.js, Express.js, Cors."
+        "detail": [
+            {
+                "img1": "https://i.ibb.co/MZVzh2F/cse-1.png",
+                "img2": "https://i.ibb.co/Rcdj8gr/cse-2.png",
+                "img3": "https://i.ibb.co/WxN4Tmg/cse-3.png",
+                "about": "● This website we know different fields in Computer science and enginnering. Those are 1.Web Development 2.App Development 3.IOS Development 4.Machine Learning 5.Robotics 6.About a Programmer. ● We know details about those fields. We can download those field details. There are also protected routes. If the user is not logged in he can not go to the details page. ● This website also has a check out form. Firebase authentication also added this website. ❖ Technologies: React.js, Firebase Authentication, react-router-dom, Bootstrap, Node.js, Express.js, Cors."
+            }
+        ]
+        
+    }
+]
+
+[
+    {
+        "img": "https://i.ibb.co/JRQJjdB/mobile-zone.png",
+        "a_live": "https://mobile-zone-de3ef.web.app/",
+        "name": "Mobile Zone",
+        "detail":
+            {
+                "img1": "https://i.ibb.co/9qWwfqm/second-1.png",
+                "img2": "https://i.ibb.co/TvwHvN4/second-2.png",
+                "img3": "https://i.ibb.co/JrzjZQ0/second-3.png",
+                "about": "● The main work on the website is Dashboard related. Buyer, Seller, and Admin roles are here. Buyers can book any product and pay for it. Sellers can sell any product and also add any product. It is responsive for mobile and tablet. ● This website admin role also accesses. Admin can delete all sellers and buyers. ● Here buyers can advertise any product which can be seen on the home page and he can also book a product in his wishlist. ❖ Technologies: React.js, Firebase Authentication, react-router-dom, react-hook-form, React Query, react-hot-toast, Tailwind, daisyUi, Node.js, Express.js, Cors, MongoDB."
+            }
+        
+    },
+    {
+        "img": "https://i.ibb.co/MVJ0cQ1/mental-press.png",
+        "a_live": "https://mental-press.web.app/",
+        "name": "Mental Press",
+        "detail":
+            {
+                "img1": "https://i.ibb.co/9wSgFfq/mental-1.png",
+                "img2": "https://i.ibb.co/K9dkfjn/mental-2.png",
+                "img3": "https://i.ibb.co/b34p3xS/mental-3.png",
+                "about": "● This website we know six types of mental health problems. We know those problem details. We also know what we should do to remove those problems. ● This website we see people who comment on those problems. We also comment on those problems. ● This website user cannot get treatment if the user is not logged in. People also add tratment. ❖ Technologies: React.js, Firebase Authentication, react-router-dom, react-hot-toast, TailwindCSS framework daisyUi, Node.js, Express.js, Cors, MongoDB."
+            }
+        
+    },
+    {
+        "img": "https://i.ibb.co/Z1V1TYm/CSE.png",
+        "a_live": "https://cse-client-side.web.app/",
+        "name": "Computer Learning",
+        "detail":
+            {
+                "img1": "https://i.ibb.co/MZVzh2F/cse-1.png",
+                "img2": "https://i.ibb.co/Rcdj8gr/cse-2.png",
+                "img3": "https://i.ibb.co/WxN4Tmg/cse-3.png",
+                "about": "● This website we know different fields in Computer science and enginnering. Those are 1.Web Development 2.App Development 3.IOS Development 4.Machine Learning 5.Robotics 6.About a Programmer. ● We know details about those fields. We can download those field details. There are also protected routes. If the user is not logged in he can not go to the details page. ● This website also has a check out form. Firebase authentication also added this website. ❖ Technologies: React.js, Firebase Authentication, react-router-dom, Bootstrap, Node.js, Express.js, Cors."
+            }
+        
     }
 ]

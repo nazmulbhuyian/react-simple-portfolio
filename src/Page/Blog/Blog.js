@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Service = () => {
+const Blog = () => {
     return (
         <div className='text-center my-16'>
             <h1 className='text-5xl font-bold text-white'>Comming Sooooooon.......</h1>
@@ -8,4 +8,4 @@ const Service = () => {
     );
 };
 
-export default Service;
+export default Blog;
